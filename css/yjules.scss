@@ -1,2 +1,12 @@
 @import "variables";
 
+.yjules .header {
+  display: table;
+  position: relative;
+  height: 55%;
+  background: url(../img/bg.jpg) no-repeat top center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
